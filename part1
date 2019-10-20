@@ -47,5 +47,13 @@ if (animal === "cow") {
   alert("Hey! You're not a cow.")
 }
 
+E. Driver's Ed
+var age = ""
+if (age > 16) {
+  alert("Here are the keys!");
+} else {
+  alert("Sorry, you're too young.");
+ }
+
  
 
