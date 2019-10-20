@@ -39,3 +39,13 @@ C. Booleans
   console.log(a <= a <= d); // note: the answer is a simple arithmetic equation, not something "weird"
   console.log(48 == '48');
 
+D. The farm
+var animal = "ree"
+if (animal === "cow") {
+  alert("mooooooo")
+} else {
+  alert("Hey! You're not a cow.")
+}
+
+ 
+
