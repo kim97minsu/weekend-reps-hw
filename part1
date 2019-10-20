@@ -10,3 +10,12 @@ A. Q + A
 5. Noting in a simplifed programming language, in order to organize and break down the structure of the program before the actual coding takes place.
 6. 50%
 
+B. Strings 
+1. var firstVariable
+- firstVariable = "Hello World" 
+- firstVariable = 3
+- var firstVariable = secondVariable
+- secondVariable = "String"
+- "String"
+2. var yourName = "Minsu";
+console.log("Hello, my name is " + yourName"); 
