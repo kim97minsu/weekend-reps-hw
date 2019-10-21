@@ -18,3 +18,32 @@ console.log(num);
 2. for(let num = 1; num <= 100; num++){
      if(num % 2 === 0) {
        console.log(num + "<-- is an even number.") 
+
+C. Give me Five
+1. for(let num = 1; num <= 100; num++){
+  if(num % 5 === 0) {
+    console.log("I found a " + num + ". High five!");
+  }
+}
+2. for(let num = 1; num <= 100; num++) {
+  if(num % 5 === 0) {
+    console.log("I found a " + num + ". High five!");
+  } if(num % 3 === 0) {
+    console.log("I found a " + num + ". Three is a crowd");
+  }
+}
+3. for(let num = 1; num <= 100; num++) {
+  if(num % 5 === 0 && num % 3 !== 0) {
+    console.log("I found a " + num + ". High five!");
+  } if(num % 3 === 0 && num % 5 !== 0) {
+    console.log("I found a " + num + ". Three is a crowd");
+  } 
+  if(num % 5 === 0 && num % 3 === 0) {
+    console.log("I found a " + num + ". Three is a crowd, High five!");
+  }
+}
+
+
+
+
+
