@@ -1,0 +1,12 @@
+II. Loops
+
+A. The Basics 
+1. for(let num = 0; num <=10; num++){
+console.log(num);
+}
+2. for(let num = 10; num <= 400; num++){
+console.log(num);
+}
+3. for(let num = 11; num <= 4000; num+=3){
+console.log(num);
+} 
