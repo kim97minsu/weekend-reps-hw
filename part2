@@ -21,12 +21,12 @@ console.log(num);
 
 C. Give me Five
 1. for(let num = 1; num <= 100; num++){
-  if(num % 5 === 0) {
-    console.log("I found a " + num + ". High five!");
-  }
+     if(num % 5 === 0) {
+     console.log("I found a " + num + ". High five!");
+   }
 }
 2. for(let num = 1; num <= 100; num++) {
-  if(num % 5 === 0) {
+    if(num % 5 === 0) {
     console.log("I found a " + num + ". High five!");
   } if(num % 3 === 0) {
     console.log("I found a " + num + ". Three is a crowd");
@@ -43,7 +43,23 @@ C. Give me Five
   }
 }
 
+D. Savings account
+1.
+let bank_account = 0;
 
+for (let i=1; i <=10; i++) {
+	bank_account = bank_account + i;
+}
+console.log(bank_account)
+2. 
+let bank_account = 0;
+
+for (let i=1; i <=100; i++) {
+	bank_account = bank_account + i;
+}
+bank_account=bank_account*2;
+
+console.log(bank_account)
 
 
 
