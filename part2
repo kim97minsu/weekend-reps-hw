@@ -61,5 +61,17 @@ bank_account=bank_account*2;
 
 console.log(bank_account)
 
+E. Multiples of 3 and 5
+
+let multiples = 0; 
+
+for (let i=1; i <=1000; i++) {
+	if (i % 5 === 0 || i % 3 === 0) {
+		multiples = multiples + i
+	}
+}
+console.log(multiples)
+
+ANSWER: 234168
 
 
