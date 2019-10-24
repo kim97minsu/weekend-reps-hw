@@ -6,5 +6,8 @@ A. Talk about it:
 3. A description of a city, including name, population size, name of the mayor, what county, etc.
 
 B. Easy Does It
-1. quotes = [ "first", "second", "third"]
+1. let quotes = [ "first", "second", "third"]
 
+C. Accessing elements 
+1. randomThing[0]
+2. randomThing[2] = "World" 
