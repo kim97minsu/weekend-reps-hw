@@ -11,3 +11,9 @@ B. Easy Does It
 C. Accessing elements 
 1. randomThing[0]
 2. randomThing[2] = "World" 
+
+D. Change values 
+1. ourClass[2]
+2. ourClass[4] = "Octocat"
+3. ourClass.push("Cloud City")
+
