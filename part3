@@ -17,3 +17,10 @@ D. Change values
 2. ourClass[4] = "Octocat"
 3. ourClass.push("Cloud City")
 
+E. Mix It Up
+1. myArray.push("Egon")
+2. myArray.push("String")
+3. myArray.unshift("Bob Marley")
+4. myArray.pop()
+5. With .reverse(), I mutated the array by returning a reversed order of the array. 
+
