@@ -24,3 +24,13 @@ E. Mix It Up
 4. myArray.pop()
 5. With .reverse(), I mutated the array by returning a reversed order of the array. 
 
+F. Biggie Smalls
+
+let number = 99
+
+if(number < 100) {
+	console.log("little number")
+} else if(number >= 100) {
+	console.log("big number")
+}
+
